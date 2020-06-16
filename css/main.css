@@ -1,1 +1,33 @@
-/* custom css */
+/* default css apear here */
+
+
+
+/* for media query*/
+
+/* large display*/
+@media(min-width: 992px){
+
+}
+
+/* medium display*/
+@media(min-width: 768px) and (max-width: 991px){
+    
+}
+
+/* small display*/
+
+@media(min-width: 575px) and (max-width: 767px){
+    
+}
+
+/* portrait mode */
+
+@media(min-width: 480px) and (max-width: 574px){
+    
+}
+
+/* extra small display*/
+
+@media(max-width: 479px){
+    
+}
